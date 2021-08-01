@@ -7,9 +7,9 @@ class Country {
     }
 }
 
-let usa = new Country("USA! USA!", "'Murican", "Hello World!", ["red", "white", "blue"]);
-let ukraine = new Country("Ukraine", "Ukrainian", "Privite, Narod!", ["blue", "gold", "black"]);
-let canada = new Country("Canada", "French Canadian", "Bonjour le monde!", ["red", "white", "black"])
+let usa = new Country("USA! USA!", "'Murican", "Hello World!", ["white", "red", "blue"]);
+let ukraine = new Country("Ukraine", "Ukrainian", "Privite, Narod!", ["black", "gold", "blue"]);
+let canada = new Country("Canada", "French Canadian", "Bonjour le monde!", ["black", "red", "white"])
 
 let countries = [usa, ukraine, canada];
 
